@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // select the kbd element under the .search-wrapper class
     const keys = document.querySelectorAll(".search-wrapper kbd");
     keys.forEach(key => {
-      key.innerHTML = '<span class="hx-text-xs">⌘</span>K';
+      key.innerHTML = '<span class="text-xs">⌘</span>K';
     });
   }
 });
@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function () {
   function hideSearchResults() {
     const { resultsElement } = getActiveSearchElement();
     if (!resultsElement) return;
-    resultsElement.classList.add('hx-hidden');
+    resultsElement.classList.add('hidden');
   }
 
   // Handle keyboard events.
@@ -248,7 +248,7 @@ document.addEventListener("DOMContentLoaded", function () {
     while (resultsElement.firstChild) {
       resultsElement.removeChild(resultsElement.firstChild);
     }
-    resultsElement.classList.remove('hx-hidden');
+    resultsElement.classList.remove('hidden');
 
     const pageResults = window.pageIndex.search(query, 5, { enrich: true, suggest: true })[0]?.result || [];
 
