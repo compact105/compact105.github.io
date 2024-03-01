@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Honiton Repair Cafe – </title>
+    <title>Honiton Repair Café – </title>
     <link>https://compact105.github.io/</link>
-    <description>Recent content on Honiton Repair Cafe</description>
+    <description>Recent content on Honiton Repair Café</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 21 Feb 2024 12:00:36 +0000</lastBuildDate>
@@ -13,36 +13,6 @@
       
       
     
-    
-    <item>
-      <title>Post Number 2</title>
-      <link>https://compact105.github.io/news/post_2/</link>
-      <pubDate>Wed, 21 Feb 2024 12:08:46 +0000</pubDate>
-      
-      <guid>https://compact105.github.io/news/post_2/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Post 2 Time&lt;span class=&#34;absolute -mt-20&#34; id=&#34;post-2-time&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#post-2-time&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Who knew?&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>The First Post on the New Honiton CAG Website</title>
-      <link>https://compact105.github.io/news/post_1/</link>
-      <pubDate>Wed, 21 Feb 2024 11:08:46 +0000</pubDate>
-      
-      <guid>https://compact105.github.io/news/post_1/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;It&amp;rsquo;s Happened!&lt;span class=&#34;absolute -mt-20&#34; id=&#34;its-happened&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#its-happened&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Whoop&lt;/p&gt;
-
-      </description>
-    </item>
     
   </channel>
 </rss>
